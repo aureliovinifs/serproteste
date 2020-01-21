@@ -1,1 +1,2 @@
-teste 3 pra ver se apaga
+escrevendo no arquivo e apagando o teste 3
+primeira linha abaixo
